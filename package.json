@@ -1,0 +1,15 @@
+{
+  "name": "tournament-ticket-shop-addon",
+  "version": "1.0.0",
+  "description": "Discord.js Tournament and Ticket Shop Manager Addon with 60% Fuzzy Slot Game Matching",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node testFuzzy.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
